@@ -1,0 +1,5492 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-03-08T05:18:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/10154078",
+        "amenity": "prison",
+        "name": "阜康市职业技能教育培训中心",
+        "name:en": "Fukang Vocational Skills Education and Training Center",
+        "name:zh-Hans": "阜康市职业技能教育培训中心",
+        "name:zh-Hant": "阜康市職業技能教育培訓中心",
+        "prison_camp": "re-education",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                87.8805098,
+                44.1977554
+              ],
+              [
+                87.8762189,
+                44.1974963
+              ],
+              [
+                87.8764795,
+                44.1952803
+              ],
+              [
+                87.8807703,
+                44.1955399
+              ],
+              [
+                87.8805098,
+                44.1977554
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                87.8756472,
+                44.1973688
+              ],
+              [
+                87.8719351,
+                44.1971496
+              ],
+              [
+                87.8721926,
+                44.1950881
+              ],
+              [
+                87.8759369,
+                44.1952458
+              ],
+              [
+                87.8756472,
+                44.1973688
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "relation/10154078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/646988930",
+        "alt_name": "教育集中营",
+        "amenity": "prison",
+        "name": "疏勒县法制教育转化学校",
+        "name:en": "Shule County Legal Education Transformation School",
+        "name:zh-Hans": "疏勒县法制教育转化学校",
+        "name:zh-Hant": "疏勒縣法制教育轉化學校",
+        "prison_camp": "re-education",
+        "source": "estimated"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0536115,
+              39.3575427
+            ],
+            [
+              76.0527266,
+              39.3587422
+            ],
+            [
+              76.0548203,
+              39.3597832
+            ],
+            [
+              76.0542076,
+              39.3605735
+            ],
+            [
+              76.0535062,
+              39.3603312
+            ],
+            [
+              76.0508601,
+              39.3618118
+            ],
+            [
+              76.0491389,
+              39.3597304
+            ],
+            [
+              76.0481386,
+              39.3583309
+            ],
+            [
+              76.049456,
+              39.3576629
+            ],
+            [
+              76.0490468,
+              39.3572208
+            ],
+            [
+              76.0500067,
+              39.355917
+            ],
+            [
+              76.0536115,
+              39.3575427
+            ]
+          ]
+        ]
+      },
+      "id": "way/646988930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647112830",
+        "alt_name": "教育集中营",
+        "amenity": "prison",
+        "name": "麦盖提县教育培训中心",
+        "name:en": "Megiti County Education and Training Center",
+        "name:zh-Hans": "麦盖提县教育培训中心",
+        "name:zh-Hant": "麥蓋提縣教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.7096552,
+              38.8390435
+            ],
+            [
+              77.7024183,
+              38.8382928
+            ],
+            [
+              77.7029825,
+              38.8349926
+            ],
+            [
+              77.7102194,
+              38.8357433
+            ],
+            [
+              77.7096552,
+              38.8390435
+            ]
+          ]
+        ]
+      },
+      "id": "way/647112830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/647446681",
+        "alt_name": "教育集中营",
+        "amenity": "prison",
+        "name": "阿克苏市第二职业技能教育培训中心",
+        "name:en": "Aksu Second Vocational Skills Education and Training Center",
+        "name:zh-Hans": "阿克苏市第二职业技能教育培训中心",
+        "name:zh-Hant": "阿克蘇市第二職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1643273,
+              41.1166599
+            ],
+            [
+              80.1608939,
+              41.1187996
+            ],
+            [
+              80.1566619,
+              41.1149456
+            ],
+            [
+              80.1600953,
+              41.1128057
+            ],
+            [
+              80.1643273,
+              41.1166599
+            ]
+          ]
+        ]
+      },
+      "id": "way/647446681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648499774",
+        "amenity": "prison",
+        "name": "乌鲁木齐职业技能教育培训中心",
+        "name:en": "Urumqi Vocational Skills Education and Training Center",
+        "name:zh-Hans": "乌鲁木齐职业技能教育培训中心",
+        "name:zh-Hant": "烏魯木齊職業技能教育培訓中心",
+        "prison_camp": "re-education",
+        "source:amenity": "https://en.wikipedia.org/wiki/Xinjiang_re-education_camps ; https://www.bbc.co.uk/news/resources/idt-sh/China_hidden_camps"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              88.2803384,
+              43.381732
+            ],
+            [
+              88.3052293,
+              43.3817944
+            ],
+            [
+              88.3052507,
+              43.3860829
+            ],
+            [
+              88.2873336,
+              43.3861453
+            ],
+            [
+              88.2807681,
+              43.3847039
+            ],
+            [
+              88.2791153,
+              43.3846794
+            ],
+            [
+              88.2803384,
+              43.381732
+            ]
+          ]
+        ]
+      },
+      "id": "way/648499774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654536260",
+        "amenity": "prison",
+        "name": "哈密市再教育集中营",
+        "name:en": "Hami City Re-education Concentration Camp",
+        "name:zh-Hans": "哈密市再教育集中营",
+        "name:zh-Hant": "哈密​​市再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              93.4357442,
+              42.812347
+            ],
+            [
+              93.4326172,
+              42.8137345
+            ],
+            [
+              93.4310547,
+              42.8118394
+            ],
+            [
+              93.4341816,
+              42.8104519
+            ],
+            [
+              93.4357442,
+              42.812347
+            ]
+          ]
+        ]
+      },
+      "id": "way/654536260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688559304",
+        "addr:street": "伊西来木基西路",
+        "amenity": "prison",
+        "name": "新疆疏附县法制教育转化学校",
+        "name:en": "Xinjiang Shufu County Legal Education Transformation School",
+        "name:zh-Hans": "新疆疏附县法制教育转化学校",
+        "name:zh-Hant": "新疆疏附縣法制教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.8615544,
+              39.3589383
+            ],
+            [
+              75.8635448,
+              39.358011
+            ],
+            [
+              75.8636979,
+              39.358228
+            ],
+            [
+              75.8644507,
+              39.3578038
+            ],
+            [
+              75.8670407,
+              39.360566
+            ],
+            [
+              75.8641317,
+              39.3622923
+            ],
+            [
+              75.8618351,
+              39.3593822
+            ],
+            [
+              75.8616795,
+              39.3591361
+            ],
+            [
+              75.8615544,
+              39.3589383
+            ]
+          ]
+        ]
+      },
+      "id": "way/688559304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/688561986",
+        "amenity": "prison",
+        "name": "伽师县职业技能培训中心",
+        "name:en": "Jiashi County Vocational Skills Training Center",
+        "name:zh-Hans": "伽师县职业技能培训中心",
+        "name:zh-Hant": "伽師縣職業技能培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.7123783,
+              39.5397146
+            ],
+            [
+              76.7130649,
+              39.5371939
+            ],
+            [
+              76.713352,
+              39.5361397
+            ],
+            [
+              76.7196953,
+              39.5372158
+            ],
+            [
+              76.7200816,
+              39.5410549
+            ],
+            [
+              76.7163284,
+              39.5404019
+            ],
+            [
+              76.7123783,
+              39.5397146
+            ]
+          ]
+        ]
+      },
+      "id": "way/688561986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690189866",
+        "amenity": "prison",
+        "name": "且末县再就业培训中心",
+        "name:en": "Qiemo County Re-employment Training Center",
+        "name:zh-Hans": "且末县再就业培训中心",
+        "name:zh-Hant": "且末縣再就業培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.577895,
+              38.0993758
+            ],
+            [
+              85.5800602,
+              38.1005757
+            ],
+            [
+              85.5753147,
+              38.1081221
+            ],
+            [
+              85.5721841,
+              38.10661
+            ],
+            [
+              85.577895,
+              38.0993758
+            ]
+          ]
+        ]
+      },
+      "id": "way/690189866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194157",
+        "amenity": "prison",
+        "name": "于田县职业技能教育培训中心",
+        "name:en": "Yutian County Vocational Skills Education Training Center",
+        "name:zh-Hans": "于田县职业技能教育培训中心",
+        "name:zh-Hant": "於田縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.7588533,
+              36.8336636
+            ],
+            [
+              81.7604491,
+              36.8358614
+            ],
+            [
+              81.7561617,
+              36.8378555
+            ],
+            [
+              81.7545101,
+              36.8355809
+            ],
+            [
+              81.7563729,
+              36.8347145
+            ],
+            [
+              81.7564286,
+              36.8347913
+            ],
+            [
+              81.7588533,
+              36.8336636
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194167",
+        "amenity": "prison",
+        "name": "策勒县职业技能教育培训中心",
+        "name:en": "Cele County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "策勒县职业技能教育培训中心",
+        "name:zh-Hant": "策勒縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.817023,
+              36.9835833
+            ],
+            [
+              80.8109198,
+              36.9833873
+            ],
+            [
+              80.8107259,
+              36.981236
+            ],
+            [
+              80.8168352,
+              36.9815136
+            ],
+            [
+              80.817023,
+              36.9835833
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194170",
+        "amenity": "prison",
+        "name": "策勒县职业技能教育培训中心",
+        "name:en": "Cele County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "策勒县职业技能教育培训中心",
+        "name:zh-Hant": "策勒縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.8157794,
+              36.9663686
+            ],
+            [
+              80.8095126,
+              36.9671113
+            ],
+            [
+              80.8092344,
+              36.9656126
+            ],
+            [
+              80.8112303,
+              36.965376
+            ],
+            [
+              80.8110135,
+              36.9642079
+            ],
+            [
+              80.8152842,
+              36.9637017
+            ],
+            [
+              80.8157794,
+              36.9663686
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194175",
+        "amenity": "prison",
+        "name": "和田市职业技能教育培训中心",
+        "name:en": "Hotan City Vocational Skills Education Training Center",
+        "name:zh-Hans": "和田市职业技能教育培训中心",
+        "name:zh-Hant": "和田市職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.9681174,
+              37.1303136
+            ],
+            [
+              79.9749797,
+              37.1284602
+            ],
+            [
+              79.974479,
+              37.1310964
+            ],
+            [
+              79.9682404,
+              37.1312402
+            ],
+            [
+              79.9681174,
+              37.1303136
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194177",
+        "amenity": "prison",
+        "name": "和田县司法局教育培训中心",
+        "name:en": "Hotan County Justice Bureau Education and Training Center",
+        "name:zh-Hans": "和田县司法局教育培训中心",
+        "name:zh-Hant": "和田縣司法局教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8472255,
+              37.2503593
+            ],
+            [
+              79.8472192,
+              37.248523
+            ],
+            [
+              79.8506739,
+              37.2485154
+            ],
+            [
+              79.8506799,
+              37.2502446
+            ],
+            [
+              79.848116,
+              37.2502503
+            ],
+            [
+              79.8481164,
+              37.2503574
+            ],
+            [
+              79.8472255,
+              37.2503593
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194178",
+        "amenity": "prison",
+        "name": "墨玉县物流园教育培训中心",
+        "name:en": "Moyu County Logistics Park Education and Training Center",
+        "name:zh-Hans": "墨玉县物流园教育培训中心",
+        "name:zh-Hant": "墨玉縣物流園教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.733859,
+              37.2316786
+            ],
+            [
+              79.7354522,
+              37.231431
+            ],
+            [
+              79.7332901,
+              37.2252032
+            ],
+            [
+              79.7383578,
+              37.2244601
+            ],
+            [
+              79.7404668,
+              37.2306699
+            ],
+            [
+              79.7403834,
+              37.230682
+            ],
+            [
+              79.7433573,
+              37.2392105
+            ],
+            [
+              79.7399889,
+              37.2396876
+            ],
+            [
+              79.7399509,
+              37.2395246
+            ],
+            [
+              79.7381681,
+              37.2397661
+            ],
+            [
+              79.7377357,
+              37.2390837
+            ],
+            [
+              79.7381074,
+              37.238987
+            ],
+            [
+              79.733859,
+              37.2316786
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194184",
+        "amenity": "prison",
+        "name": "墨玉县教育矫治中心",
+        "name:en": "Moyu County Education Correction Center",
+        "name:zh-Hans": "墨玉县教育矫治中心",
+        "name:zh-Hant": "墨玉縣教育矯治中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7220991,
+              37.2509208
+            ],
+            [
+              79.7232604,
+              37.2522915
+            ],
+            [
+              79.7215154,
+              37.2532281
+            ],
+            [
+              79.7203542,
+              37.2518574
+            ],
+            [
+              79.7220991,
+              37.2509208
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690194185",
+        "amenity": "prison",
+        "name": "墨玉县教育培训中心",
+        "name:en": "Moyu County Education and Training Center",
+        "name:zh-Hans": "墨玉县教育培训中心",
+        "name:zh-Hant": "墨玉縣教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.6457659,
+              37.113141
+            ],
+            [
+              79.642806,
+              37.1151694
+            ],
+            [
+              79.6395123,
+              37.1119696
+            ],
+            [
+              79.6425616,
+              37.1099112
+            ],
+            [
+              79.6457659,
+              37.113141
+            ]
+          ]
+        ]
+      },
+      "id": "way/690194185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196595",
+        "amenity": "prison",
+        "name": "叶城法制教育转化学校",
+        "name:en": "Yecheng Legal Education Transformation School",
+        "name:zh-Hans": "叶城法制教育转化学校",
+        "name:zh-Hant": "葉城法制教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3536151,
+              37.9175106
+            ],
+            [
+              77.3517888,
+              37.9185265
+            ],
+            [
+              77.3495488,
+              37.9160202
+            ],
+            [
+              77.351375,
+              37.9150043
+            ],
+            [
+              77.3536151,
+              37.9175106
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196600",
+        "amenity": "prison",
+        "name": "泽普县法制教育转化学校",
+        "name:en": "Zepu County Legal Education Transformation School",
+        "name:zh-Hans": "泽普县法制教育转化学校",
+        "name:zh-Hant": "澤普縣法制教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1113247,
+              38.0871093
+            ],
+            [
+              77.1111539,
+              38.0877562
+            ],
+            [
+              77.1074109,
+              38.0871993
+            ],
+            [
+              77.1076026,
+              38.0856551
+            ],
+            [
+              77.109756,
+              38.0858508
+            ],
+            [
+              77.1099387,
+              38.0841946
+            ],
+            [
+              77.1115691,
+              38.0843504
+            ],
+            [
+              77.1118314,
+              38.08278
+            ],
+            [
+              77.1123141,
+              38.0827516
+            ],
+            [
+              77.1129456,
+              38.082812
+            ],
+            [
+              77.1136854,
+              38.082993
+            ],
+            [
+              77.1146823,
+              38.0834298
+            ],
+            [
+              77.1158236,
+              38.0840973
+            ],
+            [
+              77.1153003,
+              38.0856915
+            ],
+            [
+              77.115183,
+              38.0862666
+            ],
+            [
+              77.1152552,
+              38.0862879
+            ],
+            [
+              77.114768,
+              38.0876371
+            ],
+            [
+              77.114353,
+              38.0877578
+            ],
+            [
+              77.1129892,
+              38.0878224
+            ],
+            [
+              77.1130631,
+              38.0876674
+            ],
+            [
+              77.1121371,
+              38.0874744
+            ],
+            [
+              77.1122995,
+              38.0873299
+            ],
+            [
+              77.1113247,
+              38.0871093
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196601",
+        "amenity": "prison",
+        "name": "莎车县英吾斯塘乡国民教育学校",
+        "name:en": "Yingwu County Township National Education School, Shache County",
+        "name:zh-Hans": "莎车县英吾斯塘乡国民教育学校",
+        "name:zh-Hant": "莎車縣英吾斯塘鄉國民教育學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2105577,
+              38.3188378
+            ],
+            [
+              77.2097092,
+              38.3172412
+            ],
+            [
+              77.2109405,
+              38.3168057
+            ],
+            [
+              77.2118081,
+              38.3184074
+            ],
+            [
+              77.2105577,
+              38.3188378
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196602",
+        "amenity": "prison",
+        "name": "莎车县恰尔巴格乡国民教育学校",
+        "name:en": "Chalk Bagh Township National Education School, Shache County",
+        "name:zh-Hans": "莎车县恰尔巴格乡国民教育学校",
+        "name:zh-Hant": "莎車縣恰爾巴格鄉國民教育學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3039029,
+              38.3515385
+            ],
+            [
+              77.3063247,
+              38.350742
+            ],
+            [
+              77.3079556,
+              38.3537511
+            ],
+            [
+              77.3072255,
+              38.3539966
+            ],
+            [
+              77.3068582,
+              38.3533249
+            ],
+            [
+              77.3039029,
+              38.3515385
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196603",
+        "amenity": "prison",
+        "name": "莎车县托木吾斯塘乡国民教育学校",
+        "name:en": "Tumu County, Tumu County, National Education School",
+        "name:zh-Hans": "莎车县托木吾斯塘乡国民教育学校",
+        "name:zh-Hant": "莎車縣托木吾斯塘鄉國民教育學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.2260253,
+              38.361927
+            ],
+            [
+              77.2270306,
+              38.3627965
+            ],
+            [
+              77.2264867,
+              38.3631832
+            ],
+            [
+              77.2263518,
+              38.3630665
+            ],
+            [
+              77.2252663,
+              38.3638381
+            ],
+            [
+              77.2243959,
+              38.3630852
+            ],
+            [
+              77.2260253,
+              38.361927
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196604",
+        "amenity": "prison",
+        "name": "莎车县卡拉库木国民教育学校",
+        "name:en": "Karakuku National Education School, Shache County",
+        "name:zh-Hans": "莎车县卡拉库木国民教育学校",
+        "name:zh-Hant": "莎車縣卡拉庫木國民教育學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1180121,
+              38.3652153
+            ],
+            [
+              77.1167828,
+              38.3637902
+            ],
+            [
+              77.1221859,
+              38.3610887
+            ],
+            [
+              77.1234027,
+              38.3624891
+            ],
+            [
+              77.1180121,
+              38.3652153
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690196605",
+        "amenity": "prison",
+        "name": "莎车县卡拉库木国民教育学校",
+        "name:en": "Karakuku National Education School, Shache County",
+        "name:zh-Hans": "莎车县卡拉库木国民教育学校",
+        "name:zh-Hant": "莎車縣卡拉庫木國民教育學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1438212,
+              38.4128067
+            ],
+            [
+              77.1443431,
+              38.4106604
+            ],
+            [
+              77.1462788,
+              38.4109494
+            ],
+            [
+              77.1459194,
+              38.4124273
+            ],
+            [
+              77.1461936,
+              38.4124682
+            ],
+            [
+              77.1462819,
+              38.4121053
+            ],
+            [
+              77.1491765,
+              38.4125376
+            ],
+            [
+              77.1488856,
+              38.4137335
+            ],
+            [
+              77.1460607,
+              38.4133116
+            ],
+            [
+              77.1460189,
+              38.4134832
+            ],
+            [
+              77.1455584,
+              38.4134145
+            ],
+            [
+              77.1456656,
+              38.4129741
+            ],
+            [
+              77.145233,
+              38.4129095
+            ],
+            [
+              77.1452077,
+              38.4130137
+            ],
+            [
+              77.1438212,
+              38.4128067
+            ]
+          ]
+        ]
+      },
+      "id": "way/690196605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690200443",
+        "amenity": "prison",
+        "name": "伽师县职业技能教育培训中心",
+        "name:en": "Jiashi County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "伽师县职业技能教育培训中心",
+        "name:zh-Hant": "伽師縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.7042544,
+              39.4900831
+            ],
+            [
+              76.7039929,
+              39.4898566
+            ],
+            [
+              76.7041588,
+              39.4877593
+            ],
+            [
+              76.7043182,
+              39.4876903
+            ],
+            [
+              76.7043055,
+              39.4874195
+            ],
+            [
+              76.7043884,
+              39.4873703
+            ],
+            [
+              76.7044277,
+              39.4866081
+            ],
+            [
+              76.7046612,
+              39.4866153
+            ],
+            [
+              76.7047046,
+              39.4857718
+            ],
+            [
+              76.7051348,
+              39.485785
+            ],
+            [
+              76.7053389,
+              39.4858884
+            ],
+            [
+              76.7079226,
+              39.4860164
+            ],
+            [
+              76.7080374,
+              39.4860853
+            ],
+            [
+              76.7080438,
+              39.4875131
+            ],
+            [
+              76.7079162,
+              39.4876116
+            ],
+            [
+              76.7078907,
+              39.4878282
+            ],
+            [
+              76.7079928,
+              39.4879316
+            ],
+            [
+              76.7079609,
+              39.490088
+            ],
+            [
+              76.7077567,
+              39.4902652
+            ],
+            [
+              76.7042544,
+              39.4900831
+            ]
+          ]
+        ]
+      },
+      "id": "way/690200443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690200444",
+        "amenity": "prison",
+        "name": "喀什职业技能教育培训中心",
+        "name:en": "Kashgar Vocational Skills Education and Training Center",
+        "name:zh-Hans": "喀什职业技能教育培训中心",
+        "name:zh-Hant": "喀什職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1089083,
+              39.4498368
+            ],
+            [
+              76.1112431,
+              39.4500289
+            ],
+            [
+              76.1113261,
+              39.4502308
+            ],
+            [
+              76.1115238,
+              39.4503244
+            ],
+            [
+              76.1116769,
+              39.4500732
+            ],
+            [
+              76.1138204,
+              39.4503097
+            ],
+            [
+              76.1139863,
+              39.4506003
+            ],
+            [
+              76.1120278,
+              39.4531125
+            ],
+            [
+              76.1119996,
+              39.4531132
+            ],
+            [
+              76.1098689,
+              39.4558705
+            ],
+            [
+              76.1096775,
+              39.4559246
+            ],
+            [
+              76.1057733,
+              39.4541169
+            ],
+            [
+              76.1089083,
+              39.4498368
+            ]
+          ]
+        ]
+      },
+      "id": "way/690200444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/690200445",
+        "amenity": "prison",
+        "name": "疏勒县职业技能教育培训中心",
+        "name:en": "Shule County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "疏勒县职业技能教育培训中心",
+        "name:zh-Hant": "疏勒縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0950384,
+              39.4065516
+            ],
+            [
+              76.0950474,
+              39.4090297
+            ],
+            [
+              76.0931664,
+              39.4090471
+            ],
+            [
+              76.0928822,
+              39.4071442
+            ],
+            [
+              76.0929634,
+              39.4064819
+            ],
+            [
+              76.0950384,
+              39.4065516
+            ]
+          ]
+        ]
+      },
+      "id": "way/690200445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734018263",
+        "amenity": "prison",
+        "name": "喀什市教育转化学校",
+        "name:en": "Kashi City Education Transformation School",
+        "name:zh-Hans": "喀什市教育转化学校",
+        "name:zh-Hant": "喀什市教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0544641,
+              39.4305303
+            ],
+            [
+              76.0546208,
+              39.4290427
+            ],
+            [
+              76.0559801,
+              39.4291281
+            ],
+            [
+              76.0558237,
+              39.4306157
+            ],
+            [
+              76.0544641,
+              39.4305303
+            ]
+          ]
+        ]
+      },
+      "id": "way/734018263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734280363",
+        "amenity": "prison",
+        "name": "和田再职业技能教育培训中心",
+        "name:en": "Wada Re-vocational Skills Education and Rraining Center",
+        "name:zh-Hans": "和田再职业技能教育培训中心",
+        "name:zh-Hant": "和田再職業技能教育培訓中心",
+        "note": "this area may no longer be used as a re-education camp",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.973748,
+              37.1122321
+            ],
+            [
+              79.970112,
+              37.1132645
+            ],
+            [
+              79.9689042,
+              37.1106527
+            ],
+            [
+              79.9704787,
+              37.1102123
+            ],
+            [
+              79.970545,
+              37.1103231
+            ],
+            [
+              79.970985,
+              37.1105687
+            ],
+            [
+              79.9715428,
+              37.1104544
+            ],
+            [
+              79.9715905,
+              37.1105532
+            ],
+            [
+              79.9729838,
+              37.1102499
+            ],
+            [
+              79.973748,
+              37.1122321
+            ]
+          ]
+        ]
+      },
+      "id": "way/734280363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734284751",
+        "amenity": "prison",
+        "name": "阿克苏再教育集中营",
+        "name:en": "Aksu Reed Education Camp",
+        "name:zh-Hans": "阿克苏再教育集中营",
+        "name:zh-Hant": "阿克蘇再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3926261,
+              41.0835356
+            ],
+            [
+              80.4011439,
+              41.0811385
+            ],
+            [
+              80.4043999,
+              41.0878116
+            ],
+            [
+              80.3959456,
+              41.0904558
+            ],
+            [
+              80.3953635,
+              41.088511
+            ],
+            [
+              80.3945884,
+              41.0866147
+            ],
+            [
+              80.3935557,
+              41.0847427
+            ],
+            [
+              80.3926261,
+              41.0835356
+            ]
+          ]
+        ]
+      },
+      "id": "way/734284751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734284752",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.4051616,
+              41.0876418
+            ],
+            [
+              80.4014924,
+              41.0805335
+            ],
+            [
+              80.401546,
+              41.0801615
+            ],
+            [
+              80.4079297,
+              41.0783499
+            ],
+            [
+              80.4116204,
+              41.0857415
+            ],
+            [
+              80.4051616,
+              41.0876418
+            ]
+          ]
+        ]
+      },
+      "id": "way/734284752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734284753",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3971687,
+              41.0756486
+            ],
+            [
+              80.3998938,
+              41.076603
+            ],
+            [
+              80.4001298,
+              41.0775169
+            ],
+            [
+              80.3991964,
+              41.0790454
+            ],
+            [
+              80.3958383,
+              41.0777191
+            ],
+            [
+              80.3971687,
+              41.0756486
+            ]
+          ]
+        ]
+      },
+      "id": "way/734284753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734284754",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.3926261,
+              41.0835356
+            ],
+            [
+              80.3922334,
+              41.0829434
+            ],
+            [
+              80.3956237,
+              41.0780345
+            ],
+            [
+              80.4006126,
+              41.0800078
+            ],
+            [
+              80.4012134,
+              41.0810511
+            ],
+            [
+              80.3926261,
+              41.0835356
+            ]
+          ]
+        ]
+      },
+      "id": "way/734284754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734285578",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2766472,
+              41.7131333
+            ],
+            [
+              86.2766472,
+              41.7054683
+            ],
+            [
+              86.280928,
+              41.7054683
+            ],
+            [
+              86.2809924,
+              41.7131894
+            ],
+            [
+              86.2766472,
+              41.7131333
+            ]
+          ]
+        ]
+      },
+      "id": "way/734285578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734285579",
+        "amenity": "prison",
+        "name": "監獄",
+        "name:en": "Korla Prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2811104,
+              41.7131894
+            ],
+            [
+              86.2811211,
+              41.7054763
+            ],
+            [
+              86.2906805,
+              41.7054603
+            ],
+            [
+              86.2907341,
+              41.7132454
+            ],
+            [
+              86.2811104,
+              41.7131894
+            ]
+          ]
+        ]
+      },
+      "id": "way/734285579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734285580",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2859491,
+              41.7217503
+            ],
+            [
+              86.2878374,
+              41.718459
+            ],
+            [
+              86.2931803,
+              41.718435
+            ],
+            [
+              86.2934915,
+              41.7217023
+            ],
+            [
+              86.2859491,
+              41.7217503
+            ]
+          ]
+        ]
+      },
+      "id": "way/734285580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734285581",
+        "amenity": "prison",
+        "name": "库尔勒再教育集中营",
+        "name:en": "Korla Re-education Concentration Camp",
+        "name:zh-Hans": "库尔勒再教育集中营",
+        "name:zh-Hant": "庫爾勒再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2766364,
+              41.7131974
+            ],
+            [
+              86.2877408,
+              41.7133576
+            ],
+            [
+              86.2878374,
+              41.718459
+            ],
+            [
+              86.2859491,
+              41.7217503
+            ],
+            [
+              86.2794152,
+              41.7203449
+            ],
+            [
+              86.2766579,
+              41.7203009
+            ],
+            [
+              86.2766364,
+              41.7131974
+            ]
+          ]
+        ]
+      },
+      "id": "way/734285581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734285993",
+        "amenity": "prison",
+        "name": "疏勒县中等职业技术学",
+        "name:en": "Shule County Secondary Vocational Technology",
+        "name:zh-Hans": "疏勒县中等职业技术学",
+        "name:zh-Hant": "疏勒縣中等職業技術學",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0711429,
+              39.3847385
+            ],
+            [
+              76.0710785,
+              39.3847364
+            ],
+            [
+              76.0706225,
+              39.3842964
+            ],
+            [
+              76.07007,
+              39.3839061
+            ],
+            [
+              76.068922,
+              39.3832417
+            ],
+            [
+              76.0688952,
+              39.3831215
+            ],
+            [
+              76.0723231,
+              39.3800614
+            ],
+            [
+              76.0746673,
+              39.3814671
+            ],
+            [
+              76.0711429,
+              39.3847385
+            ]
+          ]
+        ]
+      },
+      "id": "way/734285993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734286529",
+        "amenity": "prison",
+        "name": "沙雅县再教育集中营",
+        "name:en": "Shaya County Re-education Concentration Camp",
+        "name:zh-Hans": "沙雅县再教育集中营",
+        "name:zh-Hant": "沙雅縣再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.8301238,
+              41.230472
+            ],
+            [
+              82.8393188,
+              41.2320072
+            ],
+            [
+              82.8362459,
+              41.2354357
+            ],
+            [
+              82.8309727,
+              41.2346023
+            ],
+            [
+              82.8310318,
+              41.2343993
+            ],
+            [
+              82.8290739,
+              41.2340768
+            ],
+            [
+              82.8301238,
+              41.230472
+            ]
+          ]
+        ]
+      },
+      "id": "way/734286529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734291340",
+        "amenity": "prison",
+        "name": "疏勒县培训中心",
+        "name:en": "Shule County Training Center",
+        "name:zh-Hans": "疏勒县培训中心",
+        "name:zh-Hant": "疏勒縣培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0787458,
+              39.3800574
+            ],
+            [
+              76.0790301,
+              39.3806918
+            ],
+            [
+              76.0778123,
+              39.381264
+            ],
+            [
+              76.0773725,
+              39.3807043
+            ],
+            [
+              76.0787458,
+              39.3800574
+            ]
+          ]
+        ]
+      },
+      "id": "way/734291340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734291492",
+        "amenity": "prison",
+        "name": "巴楚县法制教育转化学校",
+        "name:en": "Bachu County Legal Education Transformation School",
+        "name:zh-Hans": "巴楚县法制教育转化学校",
+        "name:zh-Hant": "巴楚縣法制教育轉化學校",
+        "note": "the use of this area as a re-education camp ‘may’ no longer be applicable",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.548313,
+              39.8259083
+            ],
+            [
+              78.548152,
+              39.8234775
+            ],
+            [
+              78.5502763,
+              39.8233663
+            ],
+            [
+              78.5503407,
+              39.8244746
+            ],
+            [
+              78.5515316,
+              39.824421
+            ],
+            [
+              78.5516389,
+              39.8257682
+            ],
+            [
+              78.548313,
+              39.8259083
+            ]
+          ]
+        ]
+      },
+      "id": "way/734291492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734291991",
+        "amenity": "prison",
+        "name": "喀什职业技能教育培训中心",
+        "name:en": "Kashgar Vocational Skills Education and Training Center",
+        "name:zh-Hans": "喀什职业技能教育培训中心",
+        "name:zh-Hant": "喀什職業技能教育培訓中心",
+        "note": "the use of this area as a re-education camp ‘may’ no longer be applicable",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.041468,
+              39.4585948
+            ],
+            [
+              76.041468,
+              39.4559648
+            ],
+            [
+              76.0427554,
+              39.456075
+            ],
+            [
+              76.0440804,
+              39.4563148
+            ],
+            [
+              76.0441072,
+              39.4586238
+            ],
+            [
+              76.041468,
+              39.4585948
+            ]
+          ]
+        ]
+      },
+      "id": "way/734291991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734292309",
+        "amenity": "prison",
+        "name": "叶城县培训中心",
+        "name:en": "Yecheng County Training Center",
+        "name:zh-Hans": "叶城县培训中心",
+        "name:zh-Hant": "葉城縣培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4397015,
+              37.8523231
+            ],
+            [
+              77.4356353,
+              37.852861
+            ],
+            [
+              77.4349486,
+              37.8502052
+            ],
+            [
+              77.4387735,
+              37.849879
+            ],
+            [
+              77.4397015,
+              37.8523231
+            ]
+          ]
+        ]
+      },
+      "id": "way/734292309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734292797",
+        "amenity": "prison",
+        "name": "阿克陶县培训中心",
+        "name:en": "Akto County Training Center",
+        "name:zh-Hans": "阿克陶县培训中心",
+        "name:zh-Hant": "阿克陶縣培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9518714,
+              39.1500188
+            ],
+            [
+              75.9492267,
+              39.1484088
+            ],
+            [
+              75.9504659,
+              39.1471275
+            ],
+            [
+              75.9531105,
+              39.148621
+            ],
+            [
+              75.9518714,
+              39.1500188
+            ]
+          ]
+        ]
+      },
+      "id": "way/734292797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734292798",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9543604,
+              39.1489122
+            ],
+            [
+              75.9507395,
+              39.1468737
+            ],
+            [
+              75.9516407,
+              39.1459252
+            ],
+            [
+              75.9549559,
+              39.148388
+            ],
+            [
+              75.9543604,
+              39.1489122
+            ]
+          ]
+        ]
+      },
+      "id": "way/734292798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734293810",
+        "amenity": "prison",
+        "name": "伊宁县职业技能教育培训中心",
+        "name:en": "Yining County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "伊宁县职业技能教育培训中心",
+        "name:zh-Hant": "伊寧縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.496101,
+              43.9735015
+            ],
+            [
+              81.4975494,
+              43.9749492
+            ],
+            [
+              81.4956236,
+              43.9759645
+            ],
+            [
+              81.4946848,
+              43.9754743
+            ],
+            [
+              81.4935959,
+              43.97432
+            ],
+            [
+              81.496101,
+              43.9735015
+            ]
+          ]
+        ]
+      },
+      "id": "way/734293810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734294056",
+        "amenity": "prison",
+        "name": "劳教所",
+        "name:en": "Korla Labor Camp",
+        "name:zh-Hans": "劳教所",
+        "name:zh-Hant": "勞教所",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2802211,
+              41.7051782
+            ],
+            [
+              86.2802319,
+              41.7004802
+            ],
+            [
+              86.2863956,
+              41.7004602
+            ],
+            [
+              86.2864224,
+              41.7051581
+            ],
+            [
+              86.2802211,
+              41.7051782
+            ]
+          ]
+        ]
+      },
+      "id": "way/734294056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734294160",
+        "amenity": "prison",
+        "name": "疏附县法制转化学校",
+        "name:en": "Shufu County Legal Transformation School",
+        "name:zh-Hans": "疏附县法制转化学校",
+        "name:zh-Hant": "疏附縣法制轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.6854314,
+              39.3303056
+            ],
+            [
+              75.6894762,
+              39.3302101
+            ],
+            [
+              75.689739,
+              39.3354921
+            ],
+            [
+              75.6856889,
+              39.3356291
+            ],
+            [
+              75.6854314,
+              39.3303056
+            ]
+          ]
+        ]
+      },
+      "id": "way/734294160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734294354",
+        "amenity": "prison",
+        "name": "阿克陶城北轻工业园职业技能教育培训中心",
+        "name:en": "Akto City North Light Industry Park Vocational Skills Education Training Center",
+        "name:zh-Hans": "阿克陶城北轻工业园职业技能教育培训中心",
+        "name:zh-Hant": "阿克陶城北輕工業園職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9995124,
+              39.2588075
+            ],
+            [
+              76.0059175,
+              39.2577193
+            ],
+            [
+              76.0063037,
+              39.2581679
+            ],
+            [
+              76.0038253,
+              39.2605105
+            ],
+            [
+              76.0001561,
+              39.2610879
+            ],
+            [
+              75.9995124,
+              39.2588075
+            ]
+          ]
+        ]
+      },
+      "id": "way/734294354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734294953",
+        "amenity": "prison",
+        "name": "伽师县工业园教育培训中心",
+        "name:en": "Jiashi County Industrial Park Education and Training Center",
+        "name:zh-Hans": "伽师县工业园教育培训中心",
+        "name:zh-Hant": "伽師縣工業園教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.7418096,
+              39.4389901
+            ],
+            [
+              76.7390611,
+              39.439101
+            ],
+            [
+              76.7389529,
+              39.4375037
+            ],
+            [
+              76.7417014,
+              39.4373925
+            ],
+            [
+              76.7418096,
+              39.4389901
+            ]
+          ]
+        ]
+      },
+      "id": "way/734294953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734295538",
+        "amenity": "prison",
+        "name": "和田职业技能教育培训中心拉斯奎分点",
+        "name:en": "Hotan Vocational Skills Education and Training Center Lasques",
+        "name:zh-Hans": "和田职业技能教育培训中心拉斯奎分点",
+        "name:zh-Hant": "和田職業技能教育培訓中心拉斯奎分點",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8657881,
+              37.1625283
+            ],
+            [
+              79.8671078,
+              37.1619041
+            ],
+            [
+              79.868068,
+              37.1644691
+            ],
+            [
+              79.8672848,
+              37.165401
+            ],
+            [
+              79.8657881,
+              37.1625283
+            ]
+          ]
+        ]
+      },
+      "id": "way/734295538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734298552",
+        "amenity": "prison",
+        "name": "霍城江苏职业技术学校",
+        "name:en": "Huocheng Jiangsu Vocational and Technical School",
+        "name:zh-Hans": "霍城江苏职业技术学校",
+        "name:zh-Hant": "霍城江蘇職業技術學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.8708989,
+              44.0245808
+            ],
+            [
+              80.8753139,
+              44.0245808
+            ],
+            [
+              80.8752978,
+              44.0251324
+            ],
+            [
+              80.8749866,
+              44.0251439
+            ],
+            [
+              80.8750188,
+              44.0267061
+            ],
+            [
+              80.8744126,
+              44.0269259
+            ],
+            [
+              80.8732968,
+              44.0269259
+            ],
+            [
+              80.8722079,
+              44.0271381
+            ],
+            [
+              80.8721703,
+              44.0270879
+            ],
+            [
+              80.8714139,
+              44.0274466
+            ],
+            [
+              80.8708828,
+              44.0271034
+            ],
+            [
+              80.8708989,
+              44.0245808
+            ]
+          ]
+        ]
+      },
+      "id": "way/734298552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734299216",
+        "amenity": "prison",
+        "name": "库车法制教育转化学校",
+        "name:en": "Kuche Legal Education Transformation School",
+        "name:zh-Hans": "库车法制教育转化学校",
+        "name:zh-Hant": "庫車法制教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.006593,
+              41.7315903
+            ],
+            [
+              83.0069283,
+              41.7293763
+            ],
+            [
+              83.0069203,
+              41.724496
+            ],
+            [
+              83.0133522,
+              41.7258533
+            ],
+            [
+              83.0105841,
+              41.7323549
+            ],
+            [
+              83.006593,
+              41.7315903
+            ]
+          ]
+        ]
+      },
+      "id": "way/734299216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734382478",
+        "amenity": "prison",
+        "name": "吐鲁市职业技能教育培训中心",
+        "name:en": "Tulu City Vocational Skills Education and Training Center",
+        "name:zh-Hans": "吐鲁市职业技能教育培训中心",
+        "name:zh-Hant": "吐魯市職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2165639,
+              42.9628509
+            ],
+            [
+              89.2147936,
+              42.9604523
+            ],
+            [
+              89.2176797,
+              42.9593884
+            ],
+            [
+              89.2193641,
+              42.9617674
+            ],
+            [
+              89.2165639,
+              42.9628509
+            ]
+          ]
+        ]
+      },
+      "id": "way/734382478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734383719",
+        "amenity": "prison",
+        "name": "温宿县再教育集中营",
+        "name:en": "Wensu County Re-education Concentration Camp",
+        "name:zh-Hans": "温宿县再教育集中营",
+        "name:zh-Hant": "溫宿縣再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2422473,
+              41.3469928
+            ],
+            [
+              80.238369,
+              41.3469676
+            ],
+            [
+              80.2384056,
+              41.3438101
+            ],
+            [
+              80.2422833,
+              41.3438352
+            ],
+            [
+              80.2422473,
+              41.3469928
+            ]
+          ]
+        ]
+      },
+      "id": "way/734383719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734385056",
+        "amenity": "prison",
+        "name": "疏勒县巴仁乡培训学校",
+        "name:en": "Shuren Township Training School, Shule County",
+        "name:zh-Hans": "疏勒县巴仁乡培训学校",
+        "name:zh-Hant": "疏勒縣巴仁鄉培訓學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1338666,
+              39.4118201
+            ],
+            [
+              76.1316619,
+              39.4114595
+            ],
+            [
+              76.1317638,
+              39.411215
+            ],
+            [
+              76.13112,
+              39.411099
+            ],
+            [
+              76.1313561,
+              39.4104275
+            ],
+            [
+              76.1320052,
+              39.4105312
+            ],
+            [
+              76.1323002,
+              39.4097851
+            ],
+            [
+              76.1345318,
+              39.4101416
+            ],
+            [
+              76.1338666,
+              39.4118201
+            ]
+          ]
+        ]
+      },
+      "id": "way/734385056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734385861",
+        "amenity": "prison",
+        "name": "巴楚县法制教育转化学校",
+        "name:en": "Bachu County Legal Education Transformation School",
+        "name:zh-Hans": "巴楚县法制教育转化学校",
+        "name:zh-Hant": "巴楚縣法制教育轉化學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.5238691,
+              39.8208742
+            ],
+            [
+              78.5101547,
+              39.8214599
+            ],
+            [
+              78.5097091,
+              39.8152932
+            ],
+            [
+              78.5234235,
+              39.8147093
+            ],
+            [
+              78.5238691,
+              39.8208742
+            ]
+          ]
+        ]
+      },
+      "id": "way/734385861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734392510",
+        "amenity": "prison",
+        "name": "莎车县职业技能教育培训中心",
+        "name:en": "Shache County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "莎车县职业技能教育培训中心",
+        "name:zh-Hant": "莎車縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.1216357,
+              38.365213
+            ],
+            [
+              77.1193397,
+              38.3663149
+            ],
+            [
+              77.1184385,
+              38.3651919
+            ],
+            [
+              77.1207076,
+              38.3640689
+            ],
+            [
+              77.1216357,
+              38.365213
+            ]
+          ]
+        ]
+      },
+      "id": "way/734392510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734393160",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4667212,
+              38.4589119
+            ],
+            [
+              77.4685129,
+              38.4594096
+            ],
+            [
+              77.4677994,
+              38.4608672
+            ],
+            [
+              77.4660694,
+              38.460401
+            ],
+            [
+              77.4667212,
+              38.4589119
+            ]
+          ]
+        ]
+      },
+      "id": "way/734393160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734394215",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.3031315,
+              38.6779547
+            ],
+            [
+              77.3049017,
+              38.6766041
+            ],
+            [
+              77.3065969,
+              38.6778919
+            ],
+            [
+              77.3048212,
+              38.6792362
+            ],
+            [
+              77.3031315,
+              38.6779547
+            ]
+          ]
+        ]
+      },
+      "id": "way/734394215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734395725",
+        "amenity": "prison",
+        "name": "乌苏市法制培训学校",
+        "name:en": "Wusu City Legal Training School",
+        "name:zh-Hans": "乌苏市法制培训学校",
+        "name:zh-Hant": "烏蘇市法制培訓學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.6710303,
+              44.4217995
+            ],
+            [
+              84.6691661,
+              44.4218627
+            ],
+            [
+              84.6691017,
+              44.4205984
+            ],
+            [
+              84.6709578,
+              44.4205467
+            ],
+            [
+              84.6710303,
+              44.4217995
+            ]
+          ]
+        ]
+      },
+      "id": "way/734395725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734396261",
+        "amenity": "prison",
+        "name": "阿克苏市第一教育培训中心",
+        "name:en": "Aksu City First Education and Training Center",
+        "name:zh-Hans": "阿克苏市第一教育培训中心",
+        "name:zh-Hant": "阿克蘇市第一教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1755897,
+              41.1241426
+            ],
+            [
+              80.1701287,
+              41.1258782
+            ],
+            [
+              80.1694582,
+              41.1245871
+            ],
+            [
+              80.1717362,
+              41.1239192
+            ],
+            [
+              80.1749299,
+              41.1229829
+            ],
+            [
+              80.1755897,
+              41.1241426
+            ]
+          ]
+        ]
+      },
+      "id": "way/734396261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734398451",
+        "amenity": "prison",
+        "name": "洛浦县第一职业技能教育培训中心",
+        "name:en": "Luopu County First Vocational Skills Education and Training Center",
+        "name:zh-Hans": "洛浦县第一职业技能教育培训中心",
+        "name:zh-Hant": "洛浦縣第一職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.1787013,
+              37.103773
+            ],
+            [
+              80.1771591,
+              37.1032403
+            ],
+            [
+              80.1776419,
+              37.1005406
+            ],
+            [
+              80.1790205,
+              37.1009963
+            ],
+            [
+              80.1787013,
+              37.103773
+            ]
+          ]
+        ]
+      },
+      "id": "way/734398451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734400458",
+        "amenity": "prison",
+        "name": "伊宁市英也尔职业技能教育培训中心",
+        "name:en": "Yining Yinger Vocational Skills Education and Training Center",
+        "name:zh-Hans": "伊宁市英也尔职业技能教育培训中心",
+        "name:zh-Hant": "伊寧市英也爾職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.1369525,
+              43.9793235
+            ],
+            [
+              81.1358635,
+              43.9762082
+            ],
+            [
+              81.1409597,
+              43.9749729
+            ],
+            [
+              81.1422204,
+              43.9781885
+            ],
+            [
+              81.1369525,
+              43.9793235
+            ]
+          ]
+        ]
+      },
+      "id": "way/734400458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734400920",
+        "amenity": "prison",
+        "name": "伊宁县职业技能教育培训中心",
+        "name:en": "Yining County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "伊宁县职业技能教育培训中心",
+        "name:zh-Hant": "伊寧縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.5345924,
+              44.001168
+            ],
+            [
+              81.5294747,
+              44.0032054
+            ],
+            [
+              81.5283804,
+              44.001689
+            ],
+            [
+              81.5283858,
+              44.001415
+            ],
+            [
+              81.533836,
+              43.9990418
+            ],
+            [
+              81.5345924,
+              44.001168
+            ]
+          ]
+        ]
+      },
+      "id": "way/734400920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734401504",
+        "amenity": "prison",
+        "name": "察布查尔县再教育集中营",
+        "name:en": "Chabuchar County Re-education Concentration Camp",
+        "name:zh-Hans": "察布查尔县再教育集中营",
+        "name:zh-Hant": "察布查爾縣再教育集中營",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.1661295,
+              43.8428796
+            ],
+            [
+              81.1641607,
+              43.8425159
+            ],
+            [
+              81.1640964,
+              43.8424269
+            ],
+            [
+              81.1637584,
+              43.8392542
+            ],
+            [
+              81.1638281,
+              43.8391884
+            ],
+            [
+              81.1658666,
+              43.8390143
+            ],
+            [
+              81.1660597,
+              43.8392116
+            ],
+            [
+              81.1663333,
+              43.8421096
+            ],
+            [
+              81.1661295,
+              43.8428796
+            ]
+          ]
+        ]
+      },
+      "id": "way/734401504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734406416",
+        "amenity": "prison",
+        "name": "于田县职业技能教育培训中心",
+        "name:en": "Yutian County Vocational Skills Education Training Center",
+        "name:zh-Hans": "于田县职业技能教育培训中心",
+        "name:zh-Hant": "於田縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.8305175,
+              36.8020861
+            ],
+            [
+              81.8314509,
+              36.7983104
+            ],
+            [
+              81.8352328,
+              36.7988946
+            ],
+            [
+              81.834337,
+              36.8026574
+            ],
+            [
+              81.8305175,
+              36.8020861
+            ]
+          ]
+        ]
+      },
+      "id": "way/734406416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734408121",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.7456616,
+              37.2586425
+            ],
+            [
+              79.7488212,
+              37.2580362
+            ],
+            [
+              79.749411,
+              37.258677
+            ],
+            [
+              79.7484189,
+              37.2614902
+            ],
+            [
+              79.7479093,
+              37.261272
+            ],
+            [
+              79.747464,
+              37.2609427
+            ],
+            [
+              79.7470993,
+              37.2606049
+            ],
+            [
+              79.7467559,
+              37.2602414
+            ],
+            [
+              79.7464287,
+              37.2598673
+            ],
+            [
+              79.7461444,
+              37.2594676
+            ],
+            [
+              79.745903,
+              37.259055
+            ],
+            [
+              79.7456616,
+              37.2586425
+            ]
+          ]
+        ]
+      },
+      "id": "way/734408121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734409055",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.0943804,
+              38.2364755
+            ],
+            [
+              77.0957966,
+              38.2348702
+            ],
+            [
+              77.0996912,
+              38.2368548
+            ],
+            [
+              77.0992191,
+              38.2374615
+            ],
+            [
+              77.098967,
+              38.2374994
+            ],
+            [
+              77.097642,
+              38.2368463
+            ],
+            [
+              77.0968749,
+              38.2377775
+            ],
+            [
+              77.0943804,
+              38.2364755
+            ]
+          ]
+        ]
+      },
+      "id": "way/734409055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734409780",
+        "amenity": "prison",
+        "name": "英吉沙职业技能教育培训中心",
+        "name:en": "Yingjisha Vocational Skills Education and Training Center",
+        "name:zh-Hans": "英吉沙职业技能教育培训中心",
+        "name:zh-Hant": "英吉沙職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.057016,
+              38.93777
+            ],
+            [
+              76.0547239,
+              38.937902
+            ],
+            [
+              76.054595,
+              38.9365489
+            ],
+            [
+              76.0568873,
+              38.9364169
+            ],
+            [
+              76.057016,
+              38.93777
+            ]
+          ]
+        ]
+      },
+      "id": "way/734409780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734410209",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.0146343,
+              41.7521663
+            ],
+            [
+              83.0160065,
+              41.750874
+            ],
+            [
+              83.0178459,
+              41.7519587
+            ],
+            [
+              83.0178102,
+              41.7520916
+            ],
+            [
+              83.018921,
+              41.752734
+            ],
+            [
+              83.0190652,
+              41.7526055
+            ],
+            [
+              83.0198244,
+              41.7530537
+            ],
+            [
+              83.0197705,
+              41.753229
+            ],
+            [
+              83.0207921,
+              41.753835
+            ],
+            [
+              83.0208757,
+              41.7537566
+            ],
+            [
+              83.0210389,
+              41.7537666
+            ],
+            [
+              83.0213729,
+              41.7539647
+            ],
+            [
+              83.0214553,
+              41.7542212
+            ],
+            [
+              83.0231258,
+              41.7551944
+            ],
+            [
+              83.0217954,
+              41.7564037
+            ],
+            [
+              83.0200609,
+              41.7553865
+            ],
+            [
+              83.019786,
+              41.7553944
+            ],
+            [
+              83.017542,
+              41.7541005
+            ],
+            [
+              83.0173862,
+              41.7539208
+            ],
+            [
+              83.0162817,
+              41.7532764
+            ],
+            [
+              83.0163809,
+              41.7531717
+            ],
+            [
+              83.0146343,
+              41.7521663
+            ]
+          ]
+        ]
+      },
+      "id": "way/734410209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734412135",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.3152045,
+              43.8977473
+            ],
+            [
+              81.3137963,
+              43.8968603
+            ],
+            [
+              81.3134235,
+              43.897156
+            ],
+            [
+              81.3127972,
+              43.8968168
+            ],
+            [
+              81.3129293,
+              43.8963572
+            ],
+            [
+              81.312695,
+              43.8963053
+            ],
+            [
+              81.31261,
+              43.8961092
+            ],
+            [
+              81.3124602,
+              43.896046
+            ],
+            [
+              81.3122887,
+              43.8942478
+            ],
+            [
+              81.3137855,
+              43.8941836
+            ],
+            [
+              81.3146976,
+              43.8959287
+            ],
+            [
+              81.316162,
+              43.8968255
+            ],
+            [
+              81.3152045,
+              43.8977473
+            ]
+          ]
+        ]
+      },
+      "id": "way/734412135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734412766",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.7689408,
+              44.3766557
+            ],
+            [
+              84.7591222,
+              44.3766429
+            ],
+            [
+              84.7591331,
+              44.3723898
+            ],
+            [
+              84.7689521,
+              44.3724032
+            ],
+            [
+              84.7689408,
+              44.3766557
+            ]
+          ]
+        ]
+      },
+      "id": "way/734412766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734413695",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.483709,
+              43.7977547
+            ],
+            [
+              82.4884726,
+              43.7957993
+            ],
+            [
+              82.4916,
+              43.7995706
+            ],
+            [
+              82.4863214,
+              43.8010961
+            ],
+            [
+              82.483709,
+              43.7977547
+            ]
+          ]
+        ]
+      },
+      "id": "way/734413695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734414529",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.3165321,
+              41.3752031
+            ],
+            [
+              86.3165638,
+              41.3721519
+            ],
+            [
+              86.3219721,
+              41.3721838
+            ],
+            [
+              86.3219419,
+              41.3751047
+            ],
+            [
+              86.3217863,
+              41.3752335
+            ],
+            [
+              86.3165321,
+              41.3752031
+            ]
+          ]
+        ]
+      },
+      "id": "way/734414529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734415404",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.9942057,
+              44.1022971
+            ],
+            [
+              86.9974534,
+              44.101257
+            ],
+            [
+              86.9984758,
+              44.1033281
+            ],
+            [
+              86.9956532,
+              44.104091
+            ],
+            [
+              86.9942057,
+              44.1022971
+            ]
+          ]
+        ]
+      },
+      "id": "way/734415404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734415620",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.1625049,
+              44.3308027
+            ],
+            [
+              86.1585138,
+              44.3295518
+            ],
+            [
+              86.1604772,
+              44.3266967
+            ],
+            [
+              86.1651013,
+              44.3253228
+            ],
+            [
+              86.1669359,
+              44.3282854
+            ],
+            [
+              86.1625049,
+              44.3308027
+            ]
+          ]
+        ]
+      },
+      "id": "way/734415620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734416197",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.8951172,
+              44.2057372
+            ],
+            [
+              86.895328,
+              44.2074753
+            ],
+            [
+              86.8948508,
+              44.2075708
+            ],
+            [
+              86.8922652,
+              44.2077378
+            ],
+            [
+              86.8920876,
+              44.2059241
+            ],
+            [
+              86.8951172,
+              44.2057372
+            ]
+          ]
+        ]
+      },
+      "id": "way/734416197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734416616",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.6299662,
+              44.3454726
+            ],
+            [
+              85.6303981,
+              44.3459541
+            ],
+            [
+              85.6299877,
+              44.346144
+            ],
+            [
+              85.6300333,
+              44.3461996
+            ],
+            [
+              85.6297651,
+              44.3463301
+            ],
+            [
+              85.6298267,
+              44.3465717
+            ],
+            [
+              85.628668,
+              44.3467444
+            ],
+            [
+              85.6285714,
+              44.3460001
+            ],
+            [
+              85.6292218,
+              44.3457119
+            ],
+            [
+              85.6292654,
+              44.3457634
+            ],
+            [
+              85.6299206,
+              44.3454697
+            ],
+            [
+              85.6299662,
+              44.3454726
+            ]
+          ]
+        ]
+      },
+      "id": "way/734416616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734417289",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.2075254,
+              43.5185912
+            ],
+            [
+              82.2083837,
+              43.5145571
+            ],
+            [
+              82.2119081,
+              43.5143704
+            ],
+            [
+              82.2109532,
+              43.5184784
+            ],
+            [
+              82.2075254,
+              43.5185912
+            ]
+          ]
+        ]
+      },
+      "id": "way/734417289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734417493",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0718211,
+              44.413496
+            ],
+            [
+              85.0655843,
+              44.4138086
+            ],
+            [
+              85.0654359,
+              44.4122989
+            ],
+            [
+              85.0666998,
+              44.4122354
+            ],
+            [
+              85.0665904,
+              44.4111257
+            ],
+            [
+              85.0698474,
+              44.4109618
+            ],
+            [
+              85.071623,
+              44.4114791
+            ],
+            [
+              85.0718211,
+              44.413496
+            ]
+          ]
+        ]
+      },
+      "id": "way/734417493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734418323",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.7921264,
+              45.5345737
+            ],
+            [
+              84.7934728,
+              45.5313194
+            ],
+            [
+              84.7970026,
+              45.5319808
+            ],
+            [
+              84.7976786,
+              45.5321311
+            ],
+            [
+              84.7994408,
+              45.5328996
+            ],
+            [
+              84.8001127,
+              45.5333139
+            ],
+            [
+              84.8038423,
+              45.5348555
+            ],
+            [
+              84.8018306,
+              45.5369635
+            ],
+            [
+              84.8015892,
+              45.5369898
+            ],
+            [
+              84.7993362,
+              45.5360842
+            ],
+            [
+              84.7921264,
+              45.5345737
+            ]
+          ]
+        ]
+      },
+      "id": "way/734418323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734418997",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              84.8221222,
+              44.3340501
+            ],
+            [
+              84.8192039,
+              44.3327762
+            ],
+            [
+              84.8219291,
+              44.3295376
+            ],
+            [
+              84.8248634,
+              44.3307847
+            ],
+            [
+              84.8221222,
+              44.3340501
+            ]
+          ]
+        ]
+      },
+      "id": "way/734418997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734419902",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2282457,
+              42.9480521
+            ],
+            [
+              89.227441,
+              42.9470311
+            ],
+            [
+              89.2303861,
+              42.9456843
+            ],
+            [
+              89.2306221,
+              42.9456725
+            ],
+            [
+              89.231223,
+              42.946073
+            ],
+            [
+              89.2316414,
+              42.9465835
+            ],
+            [
+              89.2282457,
+              42.9480521
+            ]
+          ]
+        ]
+      },
+      "id": "way/734419902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734419903",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2322958,
+              42.946289
+            ],
+            [
+              89.2308528,
+              42.9454369
+            ],
+            [
+              89.2315556,
+              42.9441057
+            ],
+            [
+              89.2339588,
+              42.9447301
+            ],
+            [
+              89.234168,
+              42.9442824
+            ],
+            [
+              89.2351819,
+              42.9450246
+            ],
+            [
+              89.2322958,
+              42.946289
+            ]
+          ]
+        ]
+      },
+      "id": "way/734419903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734419904",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2384703,
+              42.9503805
+            ],
+            [
+              89.2411042,
+              42.9492339
+            ],
+            [
+              89.2420215,
+              42.9501174
+            ],
+            [
+              89.2392374,
+              42.9513425
+            ],
+            [
+              89.2384703,
+              42.9503805
+            ]
+          ]
+        ]
+      },
+      "id": "way/734419904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734419905",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2411847,
+              42.953871
+            ],
+            [
+              89.2382396,
+              42.9551431
+            ],
+            [
+              89.2363513,
+              42.9527638
+            ],
+            [
+              89.2390389,
+              42.951582
+            ],
+            [
+              89.239232,
+              42.9516762
+            ],
+            [
+              89.2395861,
+              42.9520924
+            ],
+            [
+              89.2397148,
+              42.9520453
+            ],
+            [
+              89.2411847,
+              42.953871
+            ]
+          ]
+        ]
+      },
+      "id": "way/734419905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734419906",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              89.2427189,
+              42.9535451
+            ],
+            [
+              89.2445374,
+              42.9557948
+            ],
+            [
+              89.242853,
+              42.9565329
+            ],
+            [
+              89.2410452,
+              42.9542715
+            ],
+            [
+              89.2427189,
+              42.9535451
+            ]
+          ]
+        ]
+      },
+      "id": "way/734419906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734420310",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.6531318,
+              38.8795123
+            ],
+            [
+              77.6579919,
+              38.8789777
+            ],
+            [
+              77.6585874,
+              38.8830326
+            ],
+            [
+              77.6538774,
+              38.8843229
+            ],
+            [
+              77.6531318,
+              38.8795123
+            ]
+          ]
+        ]
+      },
+      "id": "way/734420310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734420471",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.9555253,
+              46.7169296
+            ],
+            [
+              82.9567108,
+              46.718364
+            ],
+            [
+              82.9531086,
+              46.7184412
+            ],
+            [
+              82.9530791,
+              46.7170473
+            ],
+            [
+              82.9555253,
+              46.7169296
+            ]
+          ]
+        ]
+      },
+      "id": "way/734420471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734421592",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.2934007,
+              42.3141744
+            ],
+            [
+              86.2934007,
+              42.31231
+            ],
+            [
+              86.3164087,
+              42.3077479
+            ],
+            [
+              86.3163711,
+              42.3137738
+            ],
+            [
+              86.315679,
+              42.3137859
+            ],
+            [
+              86.3128093,
+              42.3138359
+            ],
+            [
+              86.3073939,
+              42.3139304
+            ],
+            [
+              86.3037063,
+              42.3139947
+            ],
+            [
+              86.3022846,
+              42.3140195
+            ],
+            [
+              86.2934007,
+              42.3141744
+            ]
+          ]
+        ]
+      },
+      "id": "way/734421592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734422195",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.1086173,
+              43.1503377
+            ],
+            [
+              81.1081399,
+              43.1483535
+            ],
+            [
+              81.1095883,
+              43.1481421
+            ],
+            [
+              81.1104841,
+              43.1497742
+            ],
+            [
+              81.1106451,
+              43.1509405
+            ],
+            [
+              81.1103071,
+              43.1509718
+            ],
+            [
+              81.1101032,
+              43.1501616
+            ],
+            [
+              81.1086173,
+              43.1503377
+            ]
+          ]
+        ]
+      },
+      "id": "way/734422195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734422637",
+        "amenity": "prison",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.7345034,
+              41.1939384
+            ],
+            [
+              82.7390959,
+              41.191366
+            ],
+            [
+              82.7424794,
+              41.1947525
+            ],
+            [
+              82.7379034,
+              41.1973367
+            ],
+            [
+              82.7345034,
+              41.1939384
+            ]
+          ]
+        ]
+      },
+      "id": "way/734422637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734424200",
+        "amenity": "prison",
+        "name": "英吉沙法制培训学校",
+        "name:en": "Ingesha Legal Training School",
+        "name:zh-Hans": "英吉沙法制培训学校",
+        "name:zh-Hant": "英吉沙法制培訓學校",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.1530426,
+              38.960606
+            ],
+            [
+              76.1553386,
+              38.9560676
+            ],
+            [
+              76.1601344,
+              38.9575943
+            ],
+            [
+              76.1574951,
+              38.9621244
+            ],
+            [
+              76.1530426,
+              38.960606
+            ]
+          ]
+        ]
+      },
+      "id": "way/734424200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734426623",
+        "amenity": "prison",
+        "name": "霍城县职业技能教育培训中心",
+        "name:en": "Huocheng County Vocational Skills Education and Training Center",
+        "name:zh-Hans": "霍城县职业技能教育培训中心",
+        "name:zh-Hant": "霍城縣職業技能教育培訓中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.8533359,
+              44.0578347
+            ],
+            [
+              80.8519251,
+              44.0613581
+            ],
+            [
+              80.8433152,
+              44.0593651
+            ],
+            [
+              80.8437806,
+              44.0585893
+            ],
+            [
+              80.8442137,
+              44.0577672
+            ],
+            [
+              80.8445718,
+              44.0569297
+            ],
+            [
+              80.8448762,
+              44.0560922
+            ],
+            [
+              80.8533359,
+              44.0578347
+            ]
+          ]
+        ]
+      },
+      "id": "way/734426623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775955673",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              86.1366697,
+              41.7370637
+            ],
+            [
+              86.1343442,
+              41.7369236
+            ],
+            [
+              86.1345105,
+              41.7357477
+            ],
+            [
+              86.1353661,
+              41.7354705
+            ],
+            [
+              86.136895,
+              41.7355986
+            ],
+            [
+              86.1366697,
+              41.7370637
+            ]
+          ]
+        ]
+      },
+      "id": "way/775955673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775956405",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2951481,
+              37.566792
+            ],
+            [
+              78.2951562,
+              37.5686097
+            ],
+            [
+              78.2934302,
+              37.5686097
+            ],
+            [
+              78.2934261,
+              37.5665815
+            ],
+            [
+              78.2951481,
+              37.566792
+            ]
+          ]
+        ]
+      },
+      "id": "way/775956405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775968742",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2610354,
+              37.0355605
+            ],
+            [
+              80.2587126,
+              37.0362114
+            ],
+            [
+              80.257688,
+              37.0343615
+            ],
+            [
+              80.260094,
+              37.0338476
+            ],
+            [
+              80.2610354,
+              37.0355605
+            ]
+          ]
+        ]
+      },
+      "id": "way/775968742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775969266",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2390062,
+              37.0457428
+            ],
+            [
+              80.2414302,
+              37.0442325
+            ],
+            [
+              80.2426453,
+              37.0454749
+            ],
+            [
+              80.2402216,
+              37.0469852
+            ],
+            [
+              80.2390062,
+              37.0457428
+            ]
+          ]
+        ]
+      },
+      "id": "way/775969266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775970086",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              87.5179332,
+              43.9991364
+            ],
+            [
+              87.5164165,
+              43.9992045
+            ],
+            [
+              87.5161093,
+              43.9975496
+            ],
+            [
+              87.5161848,
+              43.9975429
+            ],
+            [
+              87.516119,
+              43.9971473
+            ],
+            [
+              87.5160395,
+              43.9971506
+            ],
+            [
+              87.515951,
+              43.9967414
+            ],
+            [
+              87.5174579,
+              43.9966452
+            ],
+            [
+              87.5179332,
+              43.9991364
+            ]
+          ]
+        ]
+      },
+      "id": "way/775970086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775975600",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.6159472,
+              46.6397175
+            ],
+            [
+              83.6150728,
+              46.6388777
+            ],
+            [
+              83.6170255,
+              46.637898
+            ],
+            [
+              83.6177658,
+              46.6386604
+            ],
+            [
+              83.617696,
+              46.6388262
+            ],
+            [
+              83.6159472,
+              46.6397175
+            ]
+          ]
+        ]
+      },
+      "id": "way/775975600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775976605",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1550678,
+              45.6985515
+            ],
+            [
+              85.1540907,
+              45.6997448
+            ],
+            [
+              85.1524924,
+              45.6991065
+            ],
+            [
+              85.1534692,
+              45.6979132
+            ],
+            [
+              85.1550678,
+              45.6985515
+            ]
+          ]
+        ]
+      },
+      "id": "way/775976605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775982550",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.5336982,
+              43.9790378
+            ],
+            [
+              81.5369388,
+              43.9773806
+            ],
+            [
+              81.5382589,
+              43.9822474
+            ],
+            [
+              81.5347551,
+              43.9827797
+            ],
+            [
+              81.5336982,
+              43.9790378
+            ]
+          ]
+        ]
+      },
+      "id": "way/775982550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775983714",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.3826519,
+              43.8682856
+            ],
+            [
+              81.3834244,
+              43.8687729
+            ],
+            [
+              81.3837945,
+              43.8692679
+            ],
+            [
+              81.3843364,
+              43.8694992
+            ],
+            [
+              81.3851864,
+              43.8699358
+            ],
+            [
+              81.3858028,
+              43.870099
+            ],
+            [
+              81.3857538,
+              43.8702219
+            ],
+            [
+              81.3861578,
+              43.8702977
+            ],
+            [
+              81.3861741,
+              43.8705047
+            ],
+            [
+              81.3859967,
+              43.8707808
+            ],
+            [
+              81.3849482,
+              43.8717184
+            ],
+            [
+              81.383734,
+              43.8712252
+            ],
+            [
+              81.3833861,
+              43.8709744
+            ],
+            [
+              81.3819851,
+              43.870227
+            ],
+            [
+              81.381838,
+              43.8701226
+            ],
+            [
+              81.3817563,
+              43.8701058
+            ],
+            [
+              81.3816722,
+              43.8700351
+            ],
+            [
+              81.3817073,
+              43.86952
+            ],
+            [
+              81.3817399,
+              43.8695149
+            ],
+            [
+              81.381754,
+              43.8691631
+            ],
+            [
+              81.3821182,
+              43.8690049
+            ],
+            [
+              81.3826519,
+              43.8682856
+            ]
+          ]
+        ]
+      },
+      "id": "way/775983714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775984071",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              81.1370532,
+              43.1815731
+            ],
+            [
+              81.1366936,
+              43.1835345
+            ],
+            [
+              81.1326447,
+              43.1832961
+            ],
+            [
+              81.1329949,
+              43.1813279
+            ],
+            [
+              81.1370532,
+              43.1815731
+            ]
+          ]
+        ]
+      },
+      "id": "way/775984071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775984753",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1550497,
+              45.6984407
+            ],
+            [
+              85.1551855,
+              45.6982727
+            ],
+            [
+              85.1552989,
+              45.6983174
+            ],
+            [
+              85.1561194,
+              45.6973019
+            ],
+            [
+              85.1582377,
+              45.6981369
+            ],
+            [
+              85.1563486,
+              45.7004748
+            ],
+            [
+              85.1554396,
+              45.7001165
+            ],
+            [
+              85.1559036,
+              45.6995423
+            ],
+            [
+              85.1547655,
+              45.6990935
+            ],
+            [
+              85.1552344,
+              45.6985135
+            ],
+            [
+              85.1550497,
+              45.6984407
+            ]
+          ]
+        ]
+      },
+      "id": "way/775984753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775985423",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0898175,
+              39.671087
+            ],
+            [
+              76.08497,
+              39.6680028
+            ],
+            [
+              76.0849373,
+              39.6678087
+            ],
+            [
+              76.0874644,
+              39.6651714
+            ],
+            [
+              76.0888447,
+              39.6659915
+            ],
+            [
+              76.0894559,
+              39.6654348
+            ],
+            [
+              76.0906819,
+              39.6661829
+            ],
+            [
+              76.0912016,
+              39.6656664
+            ],
+            [
+              76.0926241,
+              39.6665536
+            ],
+            [
+              76.0921278,
+              39.6670652
+            ],
+            [
+              76.0937748,
+              39.6680702
+            ],
+            [
+              76.0927697,
+              39.6690209
+            ],
+            [
+              76.0940686,
+              39.669811
+            ],
+            [
+              76.0917362,
+              39.6722764
+            ],
+            [
+              76.0898175,
+              39.671087
+            ]
+          ]
+        ]
+      },
+      "id": "way/775985423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775986015",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8420031,
+              37.2375502
+            ],
+            [
+              79.8338662,
+              37.2374908
+            ],
+            [
+              79.8339048,
+              37.2324747
+            ],
+            [
+              79.8421145,
+              37.2324574
+            ],
+            [
+              79.8420031,
+              37.2375502
+            ]
+          ]
+        ]
+      },
+      "id": "way/775986015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775986674",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              79.8526391,
+              37.2404359
+            ],
+            [
+              79.8525745,
+              37.2404812
+            ],
+            [
+              79.8475739,
+              37.2404248
+            ],
+            [
+              79.8474444,
+              37.2403326
+            ],
+            [
+              79.8474623,
+              37.2393502
+            ],
+            [
+              79.8526556,
+              37.2393932
+            ],
+            [
+              79.8526391,
+              37.2404359
+            ]
+          ]
+        ]
+      },
+      "id": "way/775986674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775990292",
+        "amenity": "prison",
+        "area": "yes",
+        "name": "阿图什市职业技能教育培训服务中心",
+        "name:en": "Atushi City Vocational Skills Education Training Service Center",
+        "name:zh-Hans": "阿图什市职业技能教育培训服务中心",
+        "name:zh-Hant": "阿圖什市職業技能教育培訓服務中心",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9930417,
+              39.642827
+            ],
+            [
+              75.9930255,
+              39.6412555
+            ],
+            [
+              75.9946964,
+              39.6412586
+            ],
+            [
+              75.9946923,
+              39.6415873
+            ],
+            [
+              75.9970584,
+              39.6415967
+            ],
+            [
+              75.9968755,
+              39.6423668
+            ],
+            [
+              75.9967169,
+              39.6423574
+            ],
+            [
+              75.9966356,
+              39.6430055
+            ],
+            [
+              75.9959038,
+              39.6429773
+            ],
+            [
+              75.995916,
+              39.6428458
+            ],
+            [
+              75.9930417,
+              39.642827
+            ]
+          ]
+        ]
+      },
+      "id": "way/775990292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775990504",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9972256,
+              39.6409195
+            ],
+            [
+              75.9908687,
+              39.6409773
+            ],
+            [
+              75.9908312,
+              39.6392051
+            ],
+            [
+              75.9959381,
+              39.6389366
+            ],
+            [
+              75.9973382,
+              39.6389366
+            ],
+            [
+              75.9973543,
+              39.6402709
+            ],
+            [
+              75.9972256,
+              39.6409195
+            ]
+          ]
+        ]
+      },
+      "id": "way/775990504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775991437",
+        "amenity": "prison",
+        "area": "yes",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0583276,
+              39.4310775
+            ],
+            [
+              76.0581345,
+              39.4328384
+            ],
+            [
+              76.0531563,
+              39.432478
+            ],
+            [
+              76.0532422,
+              39.4317984
+            ],
+            [
+              76.0544438,
+              39.4317446
+            ],
+            [
+              76.0545296,
+              39.4308413
+            ],
+            [
+              76.0561765,
+              39.4308372
+            ],
+            [
+              76.0583276,
+              39.4310775
+            ]
+          ]
+        ]
+      },
+      "id": "way/775991437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775995399",
+        "amenity": "prison",
+        "area": "yes",
+        "name": "巴楚县法制教育转化学校建设项目",
+        "name:en": "Bachu County Legal Education Transformation School Construction Project",
+        "name:zh-Hans": "巴楚县法制教育转化学校建设项目",
+        "name:zh-Hant": "巴楚縣法制教育轉化學校建設項目",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.5552079,
+              39.8127749
+            ],
+            [
+              78.5551918,
+              39.8123855
+            ],
+            [
+              78.5555083,
+              39.8116561
+            ],
+            [
+              78.5570855,
+              39.8121259
+            ],
+            [
+              78.5571498,
+              39.8129871
+            ],
+            [
+              78.5562164,
+              39.8130221
+            ],
+            [
+              78.5561842,
+              39.812744
+            ],
+            [
+              78.5552079,
+              39.8127749
+            ]
+          ]
+        ]
+      },
+      "id": "way/775995399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776003971",
+        "amenity": "prison",
+        "area": "yes",
+        "note": " the use of this area as a re-education camp ‘may’ no longer be applicable",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9739566,
+              39.4562532
+            ],
+            [
+              75.9754486,
+              39.4560649
+            ],
+            [
+              75.9756682,
+              39.456225
+            ],
+            [
+              75.9757983,
+              39.4572608
+            ],
+            [
+              75.9742534,
+              39.4574806
+            ],
+            [
+              75.9739566,
+              39.4562532
+            ]
+          ]
+        ]
+      },
+      "id": "way/776003971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776004175",
+        "amenity": "prison",
+        "area": "yes",
+        "note": "the use of this area as a re-education camp ‘may’ no longer be applicable",
+        "prison_camp": "re-education"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.9698937,
+              39.4699429
+            ],
+            [
+              75.9696649,
+              39.4697842
+            ],
+            [
+              75.9695388,
+              39.4698852
+            ],
+            [
+              75.9682592,
+              39.4690524
+            ],
+            [
+              75.9686328,
+              39.4685585
+            ],
+            [
+              75.9695995,
+              39.4677257
+            ],
+            [
+              75.9710612,
+              39.4680177
+            ],
+            [
+              75.9716636,
+              39.4684576
+            ],
+            [
+              75.9698937,
+              39.4699429
+            ]
+          ]
+        ]
+      },
+      "id": "way/776004175"
+    }
+  ]
+}
